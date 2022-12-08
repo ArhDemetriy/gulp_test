@@ -38,8 +38,5 @@
     "noUnusedParameters": true,
 
     "strict": true
-  },
-  "include": [
-    "src"
-  ]
+  }
 }
