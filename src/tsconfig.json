@@ -8,8 +8,8 @@
     "allowJs": true,
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
-    "module": "CommonJS",
-    "moduleResolution": "Node",
+    "module": "esnext",
+    "moduleResolution": "node",
     "resolveJsonModule": true,
     "isolatedModules": true,
     "noEmit": true,
@@ -38,8 +38,5 @@
     "noUnusedParameters": true,
 
     "strict": true
-  },
-  "exclude": [
-    "/src"
-  ]
+  }
 }
